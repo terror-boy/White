@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=39&width=1200&lines=Welcome+To+WhiteDevil+media+[WHITE]..."
+            src="https://readme-typing-svg.herokuapp.com?size=39&width=1200&lines=Welcome+To+WhiteDevil+media+storage+[WHITE]..."
             alt="Typing SVG"
         />
     </a>
